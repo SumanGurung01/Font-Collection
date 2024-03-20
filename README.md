@@ -82,3 +82,23 @@ font-family: "Quicksand", sans-serif;
   font-family: "Poppins", sans-serif;
 ```
 
+<br></br>
+
+### 5. Inter Tight
+- import
+```
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap')
+</style>
+```
+- link
+```
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+```
+- usage in css
+```
+   font-family: "Inter Tight", sans-serif;
+```
+
